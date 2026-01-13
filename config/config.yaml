@@ -228,7 +228,7 @@ notification:
   # 注意：同一新闻可能同时出现在关键词匹配区和独立展示区
   standalone_display:
     enabled: true                    # 是否启用独立展示区
-    platforms: ["toutiao", "xueqiu", "juejin"]                     # 热榜平台 ID 列表（如 ["zhihu", "weibo"]）
+    platforms: ["toutiao", "jin10", "juejin"]                     # 热榜平台 ID 列表（如 ["zhihu", "weibo"]）
     rss_feeds: []                     # RSS 源 ID 列表（如 ["hacker-news"]）
     max_items: 10                     # 每个源最多展示条数（0=不限制）
 
